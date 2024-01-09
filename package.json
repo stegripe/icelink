@@ -27,7 +27,7 @@
 	},
 	"devDependencies": {
 		"@clytage/eslint-config": "^3.0.1",
-		"@types/node": "^20.10.6",
+		"@types/node": "^20.10.8",
 		"@types/ws": "^8.5.10",
 		"@typescript-eslint/eslint-plugin": "^6.18.0",
 		"@typescript-eslint/parser": "^6.18.0",
@@ -38,11 +38,11 @@
 		"eslint-plugin-prettier": "^5.1.2",
 		"prettier": "^3.1.1",
 		"tsup": "^8.0.1",
-		"typedoc": "^0.25.4",
+		"typedoc": "^0.25.7",
 		"typescript": "^5.3.3"
 	},
 	"dependencies": {
-		"undici": "^6.2.1",
+		"undici": "^6.3.0",
 		"ws": "^8.16.0"
 	},
 	"peerDependencies": {
